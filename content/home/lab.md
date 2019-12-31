@@ -64,13 +64,9 @@ In collaboration with colleagues across the country, we're committed to:
 2. Providing teachers and other educators with well-designed, simple, and effective behavior support tools.
 3. Understanding the origins of and developing solutions to inequity in school psychology.
 
-## How do you work?
-
-We use weekly stand-up meetings to share progress on individual and shared goals, problem-solve barriers, and spotlight specific projects that could benefit from some more focused discussion. We meet in break-out groups throughout each week to work on individual projects, and use Slack and email to keep each other up to date on our progress.
-
 ## Who are we?
 
-We're three faculty members (Drs. [Austin Johnson](#about), [Wesley Sims](https://profiles.ucr.edu/app/home/profile/wesleys), [Rondy Yu](https://profiles.ucr.edu/app/home/profile/rondy)) and a rotating team of about 10 to 12 doctoral students in School Psychology and Special Education, some of whom are featured below:
+We're a rotating team of about 10 to 12 doctoral students in School Psychology and Special Education, some of whom are featured below:
 
 <div class="media pt-3">
   <img class="mr-3" src="/img/headshots/LA_headshot.jpg" alt="Generic placeholder image" height="100" width="100">
